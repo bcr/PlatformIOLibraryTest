@@ -2,5 +2,8 @@
   "name": "Sample library test",
   "dependencies":
   [
+      {
+          "name": "Time"
+      }
   ]
 }
